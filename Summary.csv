@@ -1,0 +1,21 @@
+Summary,,,,,
+,,,,,
+Descriptive Statistics,,,,,
+,,,,,
+Total Cities Covered,50,,,,
+,,,,,
+,,,,,
+Average,Forecast,,,Actual,
+,Mar-25,Jun-25,,Mar-25,Jun-25
+Composite Prices," 8,052.64 "," 8,147.00 ",," 8,149.46 "," 8,214.48 "
+<=60 sq.mt.(646 sq.ft) ," 7,417.46 "," 7,457.64 ",," 7,496.00 "," 7,561.64 "
+>60 sq.mt.(646 sq.ft) and <=110 sq.mt.(1184 sq.ft)," 8,352.76 "," 8,462.84 ",," 8,432.12 "," 8,458.88 "
+>110 sq.mt.(1184 sq.ft)," 8,973.20 "," 9,080.48 ",," 9,090.40 "," 9,214.36 "
+,,,,,
+,,,,,
+Margin of Error >5%,No. of Cities,,Cities where the actuals breached the forecast with ME>5% - Remarks,,
+,Mar-25,Jun-25,,,
+Composite Prices, 2.00 , 2.00 ,"March and June: Bhubhaneshwar, Navi Mumbai",,
+<=60 sq.mt.(646 sq.ft) , 3.00 , 5.00 ,"March: Ludhiana, Navi Mumbai, Ranchi | June: Bhopal, Ludhiana, Navi Mumbai, Ranchi, Greater Noida",,
+>60 sq.mt.(646 sq.ft) and <=110 sq.mt.(1184 sq.ft), 1.00 , 1.00 ,March : Bhubhaneshwar | June: Bhiwadi,,
+>110 sq.mt.(1184 sq.ft), 5.00 , 12.00 ,"March : Nagpur, Vasai-Virar, Pimpri Chinchwad, Thiruvananthapuram | June : Nagpur, Kolkata, Chandigarh, Lucknow, Ludhiana, Noida, Vasai-Virar, Howrah, Chakan, Pimpri Chinchwad, Thiruvananthapuram, Bhiwadi",,
